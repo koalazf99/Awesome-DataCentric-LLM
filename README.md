@@ -10,6 +10,10 @@ Trending projects & awesome papers about data-centric LLM studies, including lar
 
    *Niklas Muennighoff, Alexander M. Rush, Boaz Barak, Teven Le Scao, Aleksandra Piktus, Nouamane Tazi, Sampo Pyysalo, Thomas Wolf, Colin Raffel* [[pdf](https://arxiv.org/abs/2305.16264)] [[code](https://github.com/mlfoundations/scaling)] [May 2023] ![stars](https://img.shields.io/github/stars/mlfoundations/scaling)
 
+1. **A Pretrainer's Guide to Training Data: Measuring the Effects of Data Age, Domain Coverage, Quality, & Toxicity**
+
+    *Shayne Longpre, Gregory Yauney, Emily Reif, Katherine Lee, Adam Roberts, Barret Zoph, Denny Zhou, Jason Wei, Kevin Robinson, David Mimno, Daphne Ippolito* [[pdf](https://arxiv.org/abs/2305.13169)] [May 2023]
+
 1. **The RefinedWeb Dataset for Falcon LLM: Outperforming Curated Corpora with Web Data, and Web Data Only**
 
     *Guilherme Penedo, Quentin Malartic, Daniel Hesslow, Ruxandra Cojocaru, Alessandro Cappelli, Hamza Alobeidli, Baptiste Pannier, Ebtesam Almazrouei, Julien Launay* [[pdf](https://arxiv.org/abs/2306.01116)] [Jun 2023]
