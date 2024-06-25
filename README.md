@@ -110,3 +110,9 @@ Trending projects & awesome papers about data-centric LLM studies, including lar
 1. **Hugging Face Ethics and Society Newsletter 6: Building Better AI: The Importance of Data Quality**
 
     *Avijit Ghosh and Lucie-Aimée Kaffee* (Huggingface) [[blog](https://huggingface.co/blog/ethics-soc-6)] [Jun 2024]
+
+## Tutorials
+
+1. **CSE599J: Data-centric Machine Learning**
+
+    *Pang Wei Koh* [[website](https://koh.pw/cse599j/)] [2023]
