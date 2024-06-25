@@ -26,6 +26,10 @@ Trending projects & awesome papers about data-centric LLM studies, including lar
 
     *Yuanzhi Li, Sébastien Bubeck, Ronen Eldan, Allie Del Giorno, Suriya Gunasekar, Yin Tat Lee* [[pdf](https://arxiv.org/abs/2309.05463)] [Sep 2023]
 
+1. **What's In My Big Data?**
+
+    *Yanai Elazar, Akshita Bhagia, Ian Magnusson, Abhilasha Ravichander, Dustin Schwenk, Alane Suhr, Pete Walsh, Dirk Groeneveld, Luca Soldaini, Sameer Singh, Hanna Hajishirzi, Noah A. Smith, Jesse Dodge* [[pdf](https://arxiv.org/abs/2310.20707)] [[code](https://github.com/allenai/wimbd)] [Oct 2023] ![stars](https://img.shields.io/github/stars/sangmichaelxie/doremi)
+
 1. **SlimPajama-DC: Understanding Data Combinations for LLM Training**
 
     *Zhiqiang Shen, Tianhua Tao, Liqun Ma, Willie Neiswanger, Zhengzhong Liu, Hongyi Wang, Bowen Tan, Joel Hestness, Natalia Vassilieva, Daria Soboleva, Eric Xing* [[pdf](https://arxiv.org/abs/2309.10818)] [Sep 2023]
