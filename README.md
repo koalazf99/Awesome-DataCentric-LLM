@@ -52,7 +52,15 @@ Trending projects & awesome papers about data-centric LLM studies, including lar
 
 1. **Dolma: an Open Corpus of Three Trillion Tokens for Language Model Pretraining Research**
 
-    *Luca Soldaini, Rodney Kinney, Akshita Bhagia, Dustin Schwenk, David Atkinson, Russell Authur, Ben Bogin, Khyathi Chandu, Jennifer Dumas, Yanai Elazar, Valentin Hofmann, Ananya Harsh Jha, Sachin Kumar, Li Lucy, Xinxi Lyu, Nathan Lambert, Ian Magnusson, Jacob Morrison, Niklas Muennighoff, Aakanksha Naik, Crystal Nam, Matthew E. Peters, Abhilasha Ravichander, Kyle Richardson, Zejiang Shen, Emma Strubell, Nishant Subramani, Oyvind Tafjord, Pete Walsh, Luke Zettlemoyer, Noah A. Smith, Hannaneh Hajishirzi, Iz Beltagy, Dirk Groeneveld, Jesse Dodge, Kyle Lo* (AI2) [[pdf](https://arxiv.org/abs/2402.00159)] [[code](https://github.com/allenai/dolma)] ![stars](https://img.shields.io/github/stars/allenai/dolma)
+    *Luca Soldaini, Rodney Kinney, Akshita Bhagia, Dustin Schwenk, David Atkinson, Russell Authur, Ben Bogin, Khyathi Chandu, Jennifer Dumas, Yanai Elazar, Valentin Hofmann, Ananya Harsh Jha, Sachin Kumar, Li Lucy, Xinxi Lyu, Nathan Lambert, Ian Magnusson, Jacob Morrison, Niklas Muennighoff, Aakanksha Naik, Crystal Nam, Matthew E. Peters, Abhilasha Ravichander, Kyle Richardson, Zejiang Shen, Emma Strubell, Nishant Subramani, Oyvind Tafjord, Pete Walsh, Luke Zettlemoyer, Noah A. Smith, Hannaneh Hajishirzi, Iz Beltagy, Dirk Groeneveld, Jesse Dodge, Kyle Lo* (AI2) [[pdf](https://arxiv.org/abs/2402.00159)] [[code](https://github.com/allenai/dolma)] [Feb 2024] ![stars](https://img.shields.io/github/stars/allenai/dolma)
+
+1. **Instruction-tuned Language Models are Better Knowledge Learners**
+
+    *Zhengbao Jiang, Zhiqing Sun, Weijia Shi, Pedro Rodriguez, Chunting Zhou, Graham Neubig, Xi Victoria Lin, Wen-tau Yih, Srinivasan Iyer* [[pdf](https://arxiv.org/abs/2402.12847)] [Feb 2024]
+
+1. **Synthetic Data (Almost) from Scratch: Generalized Instruction Tuning for Language Models**
+    
+    *Haoran Li, Qingxiu Dong, Zhengyang Tang, Chaojun Wang, Xingxing Zhang, Haoyang Huang, Shaohan Huang, Xiaolong Huang, Zeqiang Huang, Dongdong Zhang, Yuxian Gu, Xin Cheng, Xun Wang, Si-Qing Chen, Li Dong, Wei Lu, Zhifang Sui, Benyou Wang, Wai Lam, Furu Wei* [[pdf](https://arxiv.org/pdf/2402.13064)] [Feb 2024]
 
 1. **How to Train Data-Efficient LLMs**
 
@@ -62,13 +70,13 @@ Trending projects & awesome papers about data-centric LLM studies, including lar
 
     *Zachary Ankner, Cody Blakeney, Kartik Sreenivasan, Max Marion, Matthew L. Leavitt, Mansheej Paul* [[pdf](https://arxiv.org/abs/2405.20541)] [May 2024]
 
-1. **MATES: Model-Aware Data Selection for Efficient Pretraining with Data Influence Models**
-
-    *Zichun Yu, Spandan Das, Chenyan Xiong* [[pdf](https://arxiv.org/abs/2406.06046)] [[code](https://github.com/cxcscmu/MATES)] [Jun 2024] ![stars](https://img.shields.io/github/stars/cxcscmu/MATES)
-
 1. **MAP-NEO: A fully open-sourced Large Language Model**
 
     *Ge Zhang, Scott Qu, Jiaheng Liu, Chenchen Zhang, Chenghua Lin, Chou Leuang Yu, Danny Pan, Esther Cheng, Jie Liu, Qunshu Lin, Raven Yuan, Tuney Zheng, Wei Pang, Xinrun Du, Yiming Liang, Yinghao Ma, Yizhi Li, Ziyang Ma, Bill Lin, Emmanouil Benetos, Huan Yang, Junting Zhou, Kaijing Ma, Minghao Liu, Morry Niu, Noah Wang, Quehry Que, Ruibo Liu, Sine Liu, Shawn Guo, Soren Gao, Wangchunshu Zhou, Xinyue Zhang, Yizhi Zhou, Yubo Wang, Yuelin Bai, Yuhan Zhang, Yuxiang Zhang, Zenith Wang, Zhenzhu Yang, Zijian Zhao, Jiajun Zhang, Wanli Ouyang, Wenhao Huang, Wenhu Chen* [[pdf](https://arxiv.org/abs/2405.19327)] [[code](https://github.com/multimodal-art-projection/MAP-NEO)] [May 2024] ![stars](https://img.shields.io/github/stars/multimodal-art-projection/MAP-NEO)
+
+1. **MATES: Model-Aware Data Selection for Efficient Pretraining with Data Influence Models**
+
+    *Zichun Yu, Spandan Das, Chenyan Xiong* [[pdf](https://arxiv.org/abs/2406.06046)] [[code](https://github.com/cxcscmu/MATES)] [Jun 2024] ![stars](https://img.shields.io/github/stars/cxcscmu/MATES)
 
 1. **Does your data spark joy? Performance gains from domain upsampling at the end of training**
 
@@ -82,7 +90,7 @@ Trending projects & awesome papers about data-centric LLM studies, including lar
 
     *Daixuan Cheng, Yuxian Gu, Shaohan Huang, Junyu Bi, Minlie Huang, Furu Wei* [[pdf](https://arxiv.org/abs/2406.14491)] [Jun 2024]
 
-## Projects
+## Projects & Blogs
 1. **Language Model Evaluation Harness**
 
     *Leo Gao, Jonathan Tow, Baber Abbasi, Stella Biderman, Sid Black, Anthony DiPofi, Charles Foster, Laurence Golding, Jeffrey Hsu, Alain Le Noac'h, Haonan Li, Kyle McDonell, Niklas Muennighoff, Chris Ociepa, Jason Phang, Laria Reynolds, Hailey Schoelkopf, Aviya Skowron, Lintang Sutawika, Eric Tang, Anish Thite, Ben Wang, Kevin Wang, Andy Zou* [[code](https://github.com/EleutherAI/lm-evaluation-harness)] [[report](https://arxiv.org/pdf/2405.14782)] [2023] ![stars](https://img.shields.io/github/stars/EleutherAI/lm-evaluation-harness)
@@ -98,3 +106,7 @@ Trending projects & awesome papers about data-centric LLM studies, including lar
 1. **🍷 FineWeb: decanting the web for the finest text data at scale**
 
     *Guilherme Penedo, Hynek Kydlíček, Loubna Ben Allal, Anton Lozhkov, Colin Raffel, Leandro Werra, Thomas Wolf* (HuggingFaceFW) [[datasets](https://huggingface.co/collections/HuggingFaceFW/fineweb-datasets-662458592d61edba3d2f245d)] [[report](https://huggingface.co/spaces/HuggingFaceFW/blogpost-fineweb-v1)] [May 2024]
+
+1. **Hugging Face Ethics and Society Newsletter 6: Building Better AI: The Importance of Data Quality**
+
+    *Avijit Ghosh and Lucie-Aimée Kaffee* (Huggingface) [[blog](https://huggingface.co/blog/ethics-soc-6)] [Jun 2024]
