@@ -105,7 +105,7 @@ Trending projects & awesome papers about data-centric LLM studies, including lar
 
 1. **🍷 FineWeb: decanting the web for the finest text data at scale**
 
-    *Guilherme Penedo, Hynek Kydlíček, Loubna Ben Allal, Anton Lozhkov, Colin Raffel, Leandro Werra, Thomas Wolf* (HuggingFaceFW) [[datasets](https://huggingface.co/collections/HuggingFaceFW/fineweb-datasets-662458592d61edba3d2f245d)] [[report](https://huggingface.co/spaces/HuggingFaceFW/blogpost-fineweb-v1)] [May 2024]
+    *Guilherme Penedo, Hynek Kydlíček, Loubna Ben Allal, Anton Lozhkov, Colin Raffel, Leandro Werra, Thomas Wolf* (HuggingFaceFW) [[datasets](https://huggingface.co/collections/HuggingFaceFW/fineweb-datasets-662458592d61edba3d2f245d)] [[report](https://huggingface.co/spaces/HuggingFaceFW/blogpost-fineweb-v1)] [[pdf](https://arxiv.org/abs/2406.17557)] [May 2024]
 
 1. **Hugging Face Ethics and Society Newsletter 6: Building Better AI: The Importance of Data Quality**
 
