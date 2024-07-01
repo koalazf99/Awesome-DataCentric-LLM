@@ -90,6 +90,10 @@ Trending projects & awesome papers about data-centric LLM studies, including lar
 
     *Daixuan Cheng, Yuxian Gu, Shaohan Huang, Junyu Bi, Minlie Huang, Furu Wei* [[pdf](https://arxiv.org/abs/2406.14491)] [Jun 2024]
 
+1. **Scaling Synthetic Data Creation with 1,000,000,000 Personas**
+
+    *Xin Chan, Xiaoyang Wang, Dian Yu, Haitao Mi, Dong Yu* [[pdf](https://arxiv.org/pdf/2406.20094v1)] [Jun 2024]
+
 ## Projects & Blogs
 1. **Language Model Evaluation Harness**
 
