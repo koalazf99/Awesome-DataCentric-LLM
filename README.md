@@ -94,6 +94,9 @@ Trending projects & awesome papers about data-centric LLM studies, including lar
 
     *Xin Chan, Xiaoyang Wang, Dian Yu, Haitao Mi, Dong Yu* [[pdf](https://arxiv.org/pdf/2406.20094v1)] [Jun 2024]
 
+1. **Resolving Discrepancies in Compute-Optimal Scaling of Language Models**
+    *Tomer Porian, Mitchell Wortsman, Jenia Jitsev, Ludwig Schmidt, Yair Carmon* [[pdf](https://arxiv.org/abs/2406.19146)] [Jun 2024]
+
 1. **RegMix: Data Mixture as Regression for Language Model Pre-training**
 
     *Qian Liu, Xiaosen Zheng, Niklas Muennighoff, Guangtao Zeng, Longxu Dou, Tianyu Pang, Jing Jiang, Min Lin* [[pdf](https://arxiv.org/abs/2407.01492)] [[code](https://github.com/sail-sg/regmix)] [Jul 2024] ![stars](https://img.shields.io/github/stars/sail-sg/regmix)
