@@ -99,7 +99,11 @@ Trending projects & awesome papers about data-centric LLM studies, including lar
     *Xin Chan, Xiaoyang Wang, Dian Yu, Haitao Mi, Dong Yu* [[pdf](https://arxiv.org/pdf/2406.20094v1)] [Jun 2024]
 
 1. **Resolving Discrepancies in Compute-Optimal Scaling of Language Models**
+
     *Tomer Porian, Mitchell Wortsman, Jenia Jitsev, Ludwig Schmidt, Yair Carmon* [[pdf](https://arxiv.org/abs/2406.19146)] [Jun 2024]
+
+1. **MINT-1T: Scaling Open-Source Multimodal Data by 10x: A Multimodal Dataset with One Trillion Tokens**
+    *Anas Awadalla, Le Xue, Oscar Lo, Manli Shu, Hannah Lee, Etash Kumar Guha, Matt Jordan, Sheng Shen, Mohamed Awadalla, Silvio Savarese, Caiming Xiong, Ran Xu, Yejin Choi, Ludwig Schmidt* [[pdf](https://arxiv.org/abs/2406.11271)] [Jun 2024]
 
 1. **RegMix: Data Mixture as Regression for Language Model Pre-training**
 
