@@ -70,6 +70,9 @@ Trending projects & awesome papers about data-centric LLM studies, including lar
 
     *Samir Yitzhak Gadre, Georgios Smyrnis, Vaishaal Shankar, Suchin Gururangan, Mitchell Wortsman, Rulin Shao, Jean Mercat, Alex Fang, Jeffrey Li, Sedrick Keh, Rui Xin, Marianna Nezhurina, Igor Vasiljevic, Jenia Jitsev, Luca Soldaini, Alexandros G. Dimakis, Gabriel Ilharco, Pang Wei Koh, Shuran Song, Thomas Kollar, Yair Carmon, Achal Dave, Reinhard Heckel, Niklas Muennighoff, Ludwig Schmidt* [[pdf](https://arxiv.org/pdf/2403.08540)] [Mar 2024]
 
+1. **Scaling Laws for Data Filtering -- Data Curation cannot be Compute Agnostic**
+    *Sachin Goyal, Pratyush Maini, Zachary C. Lipton, Aditi Raghunathan, J. Zico Kolter* [[pdf](https://arxiv.org/abs/2404.07177)]
+
 1. **Perplexed by Perplexity: Perplexity-Based Data Pruning With Small Reference Models**
 
     *Zachary Ankner, Cody Blakeney, Kartik Sreenivasan, Max Marion, Matthew L. Leavitt, Mansheej Paul* [[pdf](https://arxiv.org/abs/2405.20541)] [May 2024]
