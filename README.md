@@ -114,6 +114,10 @@ Trending projects & awesome papers about data-centric LLM studies, including lar
 
    _Qian Liu, Xiaosen Zheng, Niklas Muennighoff, Guangtao Zeng, Longxu Dou, Tianyu Pang, Jing Jiang, Min Lin_ [[pdf](https://arxiv.org/abs/2407.01492)] [[code](https://github.com/sail-sg/regmix)] [Jul 2024] ![stars](https://img.shields.io/github/stars/sail-sg/regmix)
 
+1. **To Code, or Not To Code? Exploring Impact of Code in Pre-training**
+
+   _Viraat Aryabumi, Yixuan Su, Raymond Ma, Adrien Morisot, Ivan Zhang, Acyr Locatelli, Marzieh Fadaee, Ahmet Üstün, Sara Hooker_ [[pdf](https://arxiv.org/abs/2408.10914)] [Aug 2024]
+
 1. **Programming Every Example: Lifting Pre-training Data Quality Like Experts at Scale**
 
    _Fan Zhou, Zengzhi Wang, Qian Liu, Junlong Li, Pengfei Liu_ [[pdf](https://arxiv.org/pdf/2409.17115)] [[code](https://github.com/GAIR-NLP/ProX)] [[data](https://huggingface.co/collections/gair-prox/prox-dataset-66e81c9d560911b836bb3704)] [Jul 2024] ![stars](https://img.shields.io/github/stars/GAIR-NLP/ProX)
