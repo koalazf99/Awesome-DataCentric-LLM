@@ -120,7 +120,11 @@ Trending projects & awesome papers about data-centric LLM studies, including lar
 
 1. **Programming Every Example: Lifting Pre-training Data Quality Like Experts at Scale**
 
-   _Fan Zhou, Zengzhi Wang, Qian Liu, Junlong Li, Pengfei Liu_ [[pdf](https://arxiv.org/pdf/2409.17115)] [[code](https://github.com/GAIR-NLP/ProX)] [[data](https://huggingface.co/collections/gair-prox/prox-dataset-66e81c9d560911b836bb3704)] [Jul 2024] ![stars](https://img.shields.io/github/stars/GAIR-NLP/ProX)
+   _Fan Zhou, Zengzhi Wang, Qian Liu, Junlong Li, Pengfei Liu_ [[pdf](https://arxiv.org/pdf/2409.17115)] [[code](https://github.com/GAIR-NLP/ProX)] [[data](https://huggingface.co/collections/gair-prox/prox-dataset-66e81c9d560911b836bb3704)] [Sep 2024] ![stars](https://img.shields.io/github/stars/GAIR-NLP/ProX)
+
+1. **ZIP-FIT: Embedding-Free Data Selection via Compression-Based Alignment**
+
+   _Elyas Obbad, Iddah Mlauzi, Brando Miranda, Rylan Schaeffer, Kamal Obbad, Suhana Bedi, Sanmi Koyejo_ [[pdf](https://arxiv.org/abs/2410.18194)] [Oct 2024]
 
 ## Projects & Blogs
 
