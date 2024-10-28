@@ -151,6 +151,9 @@ Trending projects & awesome papers about data-centric LLM studies, including lar
 1. **TxT360: A Top-Quality LLM Pre-training Dataset Requires the Perfect Blend**
    _Liping Tang, Nikhil Ranjan, Omkar Pangarkar, Xuezhi Liang, Zhen Wang, Li An, Bhaskar Rao, Zhoujun Cheng, Suqi Sun, Cun Mu, Victor Miller, Yue Peng, Eric P. Xing, Zhengzhong Liu_ (LLM360) [[datasets](https://huggingface.co/datasets/LLM360/TxT360)] [[blog](https://huggingface.co/spaces/LLM360/TxT360)]
 
+1. **Scaling FineWeb to 1000+ languages, Step 1: Finding Signals in 100s of Evaluation Tasks**
+   _Hynek Kydlíček, Guilherme Penedo, Clémentine Fourier, Nathan Habib, Thomas Wolf_ (HuggingFaceFW) [[blog](https://huggingface.co/spaces/HuggingFaceFW/blogpost-fine-tasks)] [Oct 2024]
+
 ## Tutorials
 
 1. **CSE599J: Data-centric Machine Learning**
