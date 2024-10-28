@@ -8,6 +8,10 @@ Trending projects & awesome papers about data-centric LLM studies, including lar
 
 ## Papers
 
+1. **ClueWeb22: 10 Billion Web Documents with Visual and Semantic Information**
+
+   _Arnold Overwijk, Chenyan Xiong, Xiao Liu, Cameron VandenBerg, Jamie Callan_ [[abs](https://arxiv.org/abs/2211.15848)] [Nov 2022]
+
 1. **Scaling Data-Constrained Language Models**
 
    _Niklas Muennighoff, Alexander M. Rush, Boaz Barak, Teven Le Scao, Aleksandra Piktus, Nouamane Tazi, Sampo Pyysalo, Thomas Wolf, Colin Raffel_ [[pdf](https://arxiv.org/abs/2305.16264)] [[code](https://github.com/mlfoundations/scaling)] [May 2023] ![stars](https://img.shields.io/github/stars/mlfoundations/scaling)
