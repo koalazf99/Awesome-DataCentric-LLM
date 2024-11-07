@@ -144,6 +144,10 @@ Trending projects & awesome papers about data-centric LLM studies, including lar
 
    _Guilherme Penedo, Hynek Kydlíček, Alessandro Cappelli, Mario Sasko, Thomas Wolf_ [[code](https://github.com/huggingface/datatrove)] [Feb 2024] ![stars](https://img.shields.io/github/stars/huggingface/datatrove)
 
+1. **SailCraft: Data Toolkit for Sailor Language Models**
+
+   _Longxu Dou, Qian Liu, Guangtao Zeng, Jia Guo, Jiahui Zhou, Wei Lu, Min Lin_ [[code](https://github.com/sail-sg/sailcraft)] [Apr 2024] ![stars](https://img.shields.io/github/stars/sail-sg/sailcraft)
+
 1. **🍷 FineWeb: decanting the web for the finest text data at scale**
 
    _Guilherme Penedo, Hynek Kydlíček, Loubna Ben Allal, Anton Lozhkov, Colin Raffel, Leandro Werra, Thomas Wolf_ (HuggingFaceFW) [[datasets](https://huggingface.co/collections/HuggingFaceFW/fineweb-datasets-662458592d61edba3d2f245d)] [[report](https://huggingface.co/spaces/HuggingFaceFW/blogpost-fineweb-v1)] [[pdf](https://arxiv.org/abs/2406.17557)] [May 2024]
