@@ -157,13 +157,20 @@ Trending projects & awesome papers about data-centric LLM studies, including lar
    _Avijit Ghosh and Lucie-Aimée Kaffee_ (Huggingface) [[blog](https://huggingface.co/blog/ethics-soc-6)] [Jun 2024]
 
 1. **TxT360: A Top-Quality LLM Pre-training Dataset Requires the Perfect Blend**
+
    _Liping Tang, Nikhil Ranjan, Omkar Pangarkar, Xuezhi Liang, Zhen Wang, Li An, Bhaskar Rao, Zhoujun Cheng, Suqi Sun, Cun Mu, Victor Miller, Yue Peng, Eric P. Xing, Zhengzhong Liu_ (LLM360) [[datasets](https://huggingface.co/datasets/LLM360/TxT360)] [[blog](https://huggingface.co/spaces/LLM360/TxT360)]
 
 1. **Scaling FineWeb to 1000+ languages, Step 1: Finding Signals in 100s of Evaluation Tasks**
+
    _Hynek Kydlíček, Guilherme Penedo, Clémentine Fourier, Nathan Habib, Thomas Wolf_ (HuggingFaceFW) [[blog](https://huggingface.co/spaces/HuggingFaceFW/blogpost-fine-tasks)] [Oct 2024]
 
 1. **FineWeb-2: A 1000+ Language Dataset for Multilingual Language Models**
+
    _Guilherme Penedo, Hynek Kydlíček, Vinko Sabolčec, Bettina Messmer, Negar Foroutan, Martin Jaggi, Leandro von Werra, Thomas Wolf_ (HuggingFaceFW) [[code](https://github.com/huggingface/fineweb-2)] [[datasets](https://huggingface.co/datasets/HuggingFaceFW/fineweb-2)] [Oct 2024] ![stars](https://img.shields.io/github/stars/huggingface/fineweb-2)
+
+1. **📐 FineMath: the Finest Collection of Mathematical Content**
+
+   _Anton Lozhkov, Loubna Ben Allal, Elie Bakouch, Leandro von Werra, Thomas Wolf_ [[datasets](https://huggingface.co/datasets/HuggingFaceTB/finemath)] [Dec 2024]
 
 ## Tutorials
 
