@@ -130,6 +130,10 @@ Trending projects & awesome papers about data-centric LLM studies, including lar
 
    _Elyas Obbad, Iddah Mlauzi, Brando Miranda, Rylan Schaeffer, Kamal Obbad, Suhana Bedi, Sanmi Koyejo_ [[pdf](https://arxiv.org/abs/2410.18194)] [Oct 2024]
 
+1. **MegaMath: Pushing the Limits of Open Math Corpora**
+
+   _Fan Zhou, Zengzhi Wang, Nikhil Ranjan, Zhoujun Cheng, Liping Tang, Guowei He, Zhengzhong Liu, Eric P. Xing_ [[pdf](https://arxiv.org/abs/2504.02807)] [[code](https://github.com/LLM360/MegaMath)] [[data](https://huggingface.co/datasets/LLM360/MegaMath)] [Apr 2025] ![stars](https://img.shields.io/github/stars/LLM360/MegaMath)
+
 ## Projects & Blogs
 
 1. **Language Model Evaluation Harness**
