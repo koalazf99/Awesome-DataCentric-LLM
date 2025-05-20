@@ -130,9 +130,17 @@ Trending projects & awesome papers about data-centric LLM studies, including lar
 
    _Elyas Obbad, Iddah Mlauzi, Brando Miranda, Rylan Schaeffer, Kamal Obbad, Suhana Bedi, Sanmi Koyejo_ [[pdf](https://arxiv.org/abs/2410.18194)] [Oct 2024]
 
+1. **Organize the Web: Constructing Domains Enhances Pre-Training Data Curation**
+
+   _Alexander Wettig, Kyle Lo, Sewon Min, Hannaneh Hajishirzi, Danqi Chen, Luca Soldaini_ [[pdf](https://arxiv.org/abs/2502.10341)] [Feb 2025] ![stars](https://img.shields.io/github/stars/CodeCreator/WebOrganizer)
+
 1. **MegaMath: Pushing the Limits of Open Math Corpora**
 
    _Fan Zhou, Zengzhi Wang, Nikhil Ranjan, Zhoujun Cheng, Liping Tang, Guowei He, Zhengzhong Liu, Eric P. Xing_ [[pdf](https://arxiv.org/abs/2504.02807)] [[code](https://github.com/LLM360/MegaMath)] [[data](https://huggingface.co/datasets/LLM360/MegaMath)] [Apr 2025] ![stars](https://img.shields.io/github/stars/LLM360/MegaMath)
+
+1. **DataDecide: How to Predict Best Pretraining Data with Small Experiments**
+
+   _Ian Magnusson, Nguyen Tai, Ben Bogin, David Heineman, Jena D. Hwang, Luca Soldaini, Akshita Bhagia, Jiacheng Liu, Dirk Groeneveld, Oyvind Tafjord, Noah A. Smith, Pang Wei Koh, Jesse Dodge_ [[pdf](https://arxiv.org/abs/2504.11393)] [Apr 2025]
 
 ## Projects & Blogs
 
